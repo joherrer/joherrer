@@ -2,7 +2,7 @@
 
 ### 💻 Software Developer | Java, Python, Web & AI Specialist
 
-Software developer based in **Brisbane, Australia**. I design **robust, secure, and scalable back-end solutions** leveraging **AI tools, cloud computing, and cybersecurity practices**.  
+Software developer based in **Australia**. I design **robust, secure, and scalable back-end solutions** leveraging **AI tools, cloud computing, and cybersecurity practices**.  
 
 ## 🔭 What I'm Doing
 - Developing **web applications, APIs, and desktop applications** using Java, Python, and JavaFX.
@@ -69,10 +69,8 @@ Software developer based in **Brisbane, Australia**. I design **robust, secure, 
 - Staying updated with **new programming languages and frameworks**  
 
 ## 📫 Contact Me
-- 📍 Brisbane, Australia  
+- 📍 Australia  
 - ✉️ [joherrer.dev@gmail.com](mailto:joherrer.dev@gmail.com) | [joherrer95@gmail.com](mailto:joherrer95@gmail.com)  
-- 📞 +61 426 485 644  
-- 💼 [LinkedIn](https://www.linkedin.com/) | [Twitter](https://twitter.com/) | [GitHub](https://github.com/joherrer)
 
 ## ⚡ Fun Facts
 - Passionate about **sports, travel, nature, and philosophy**  
