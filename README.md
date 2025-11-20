@@ -22,7 +22,7 @@ I'm a software developer based in **Australia**. I design **robust, secure, and 
 [![Tools](https://skillicons.dev/icons?i=git,vscode,pycharm,idea,githubcopilot,github&theme=light)](https://skillicons.dev)
 
 **Cloud & OS:**  
-[![Tools](https://skillicons.dev/icons?i=git,vscode,pycharm,idea,githubcopilot,github&theme=light)](https://skillicons.dev)
+[![Cloud & OS](https://skillicons.dev/icons?i=aws,linux,windows,apple&theme=light)](https://skillicons.dev)
 
 ## 🏆 Key Skills
 - **Backend Development:** Java, Spring, Python, Flask, SQL  
