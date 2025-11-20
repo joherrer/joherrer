@@ -27,7 +27,7 @@ I'm a software developer based in **Australia**. I build **robust, secure, and s
 ## 🧠 Key Skills
 - **Backend Development:** Java, Spring, Python, Flask, SQL  
 - **Frontend Development:** HTML, CSS, JavaScript, JavaFX  
-- **AI & Automation:** Chatbots, Automation 
+- **AI & Automation:** Copilot, Claude, ChatGPT, Cursor
 - **Cloud & DevOps:** AWS, CI/CD, Pipelines  
 - **Business Knowledge:** Finance, Accounting, Marketing  
 - **Others:** Team leadership, Problem-solving
