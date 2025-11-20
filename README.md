@@ -19,10 +19,10 @@ I'm a software developer based in **Australia**. I design **robust, secure, and 
 [![Frameworks](https://skillicons.dev/icons?i=spring,flask,hibernate,junit&theme=light)](https://skillicons.dev)
 
 **Tools & Platforms:**  
-[![Tools](https://skillicons.dev/icons?i=git,vscode,pycharm,idea,githubcopilot,github&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,aws,vscode,pycharm,idea&theme=light)](https://skillicons.dev)
 
 **Cloud & OS:**  
-[![Cloud & OS](https://skillicons.dev/icons?i=aws,linux,windows,apple&theme=light)](https://skillicons.dev)
+[![Cloud & OS](https://skillicons.dev/icons?i=apple,windows,linux&theme=light)](https://skillicons.dev)
 
 ## 🏆 Key Skills
 - **Backend Development:** Java, Spring, Python, Flask, SQL  
