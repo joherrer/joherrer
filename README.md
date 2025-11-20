@@ -1,6 +1,6 @@
 # Hi there, I'm Jose Herrera 👋
 
-### 💻 Creative Software Developer | Java, Python, Web & AI Specialist
+### 💻 Software Developer | Java, Python, Web & AI Specialist
 
 Software developer based in **Brisbane, Australia**. I design **robust, secure, and scalable back-end solutions** leveraging **AI tools, cloud computing, and cybersecurity practices**.  
 
