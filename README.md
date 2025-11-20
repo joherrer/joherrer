@@ -13,16 +13,16 @@ I'm a software developer based in **Australia**. I design **robust, secure, and 
 ## 🛠️ Tech Stack
 
 **Programming Languages:**  
-[![Languages](https://skillicons.dev/icons?i=java,python,c,html,css,js&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,c,html,css,js&theme=dark)](https://skillicons.dev)
 
 **Frameworks & Libraries:**  
-[![Frameworks](https://skillicons.dev/icons?i=spring,flask,hibernate,junit&theme=light)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring,flask,hibernate,junit&theme=dark)](https://skillicons.dev)
 
 **Tools & Platforms:**  
-[![Tools](https://skillicons.dev/icons?i=git,github,aws,vscode,pycharm,idea&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,vscode,pycharm,idea,aws&theme=dark)](https://skillicons.dev)
 
 **Cloud & OS:**  
-[![Cloud & OS](https://skillicons.dev/icons?i=apple,windows,linux&theme=light)](https://skillicons.dev)
+[![Cloud & OS](https://skillicons.dev/icons?i=apple,windows,linux&theme=dark)](https://skillicons.dev)
 
 ## 🏆 Key Skills
 - **Backend Development:** Java, Spring, Python, Flask, SQL  
