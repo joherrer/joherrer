@@ -46,15 +46,14 @@ I'm a software developer based in **Australia**. I design **robust, secure, and 
 - **AI & Automation:** Chatbots, Copilot, Claude integration  
 - **Cloud & DevOps:** AWS, CI/CD, pipelines, automation  
 - **Business Knowledge:** Finance, Accounting, Marketing  
-- **Project Management & Leadership:** Agile, Team leadership, Problem-solving  
+- **Project Management:** Team leadership, Problem-solving  
 
 ## 📂 Highlighted Projects
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| Portfolio Website | HTML, CSS, JS, Jekyll | Personal website showcasing projects and services |
 | Web Applications | Java, Python, SQL | REST APIs and full-stack apps |
 | Desktop Applications | Java, JavaFX | Interactive desktop software |
-| AI Tools | Python, ChatGPT, Copilot | Automation tools, chatbots, AI integrations |
+| Frontend Development | HTML, CSS, JS, Jekyll | Personal website showcasing projects and services |
 
 > For a full list of projects, check out my [Projects page](https://github.com/joherrer)
 
