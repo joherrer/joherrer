@@ -52,7 +52,7 @@ I'm a software developer based in **Australia**. I build **robust, secure, and s
 - ✉️ [joherrer.dev@gmail.com](mailto:joherrer.dev@gmail.com) / [joherrer95@gmail.com](mailto:joherrer95@gmail.com)  
 
 ## 👽 Fun Facts
-- Love **sports, travel, nature, and philosophy**  
+- Lovw **Sports, Travel, Nature, and Philosophy**  
 - Favorite music - **Soundtracks** and **New Age**
 - I train Kung Fu
 
