@@ -14,7 +14,7 @@ Software developer based in **Australia**. I design **robust, secure, and scalab
 
 **Languages:**  
 
-[![Languages](https://skillicons.dev/icons?i=ava,python,html,css,js)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,c,html,css,js)](https://skillicons.dev)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
