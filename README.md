@@ -2,7 +2,7 @@
 
 ### 💻 Software Developer | Java, Python, Web & AI Specialist
 
-Software developer based in **Australia**. I design **robust, secure, and scalable back-end solutions** leveraging **AI tools, cloud computing, and cybersecurity practices**.  
+I'm a software developer based in **Australia**. I design **robust, secure, and scalable back-end solutions** leveraging **AI tools, cloud computing, and cybersecurity practices**.  
 
 ## 🔭 What I'm Doing
 - Developing **web applications, APIs, and desktop applications** using Java, Python, and JavaFX.
