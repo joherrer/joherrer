@@ -12,7 +12,7 @@ I'm a software developer based in **Australia**. I design **robust, secure, and 
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
+**Programming Languages:**  
 
 [![Languages](https://skillicons.dev/icons?i=java,python,c,html,css,js&theme=light)](https://skillicons.dev)
 
