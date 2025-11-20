@@ -1,4 +1,4 @@
-# Hi there, I'm Jose Herrera 👋
+# Hi, I'm Jose 👋
 
 ### 💻 Software Developer | Java, Python, Web & AI Specialist
 
