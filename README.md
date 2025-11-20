@@ -2,13 +2,13 @@
 
 ### 💻 Software Developer | Java, Python, Web & AI Specialist
 
-I'm a software developer based in **Australia**. I design **robust, secure, and scalable back-end solutions** leveraging **AI tools, cloud computing, and cybersecurity practices**.  
+I'm a software developer based in **Australia**. I build **robust, secure, and scalable solutions** using **AI tools, cloud computing, and cybersecurity practices**. 
 
-## 🔭 What I'm Doing
-- Developing **web applications, APIs, and desktop applications** using Java, Python, and JavaFX.
-- Exploring **AI-driven automation tools** with Copilot, Claude, and ChatGPT.
+## ⚡ What I'm Doing
+- Developing **web applications, APIs, and desktop applications** using Java and Python.
+- Mastering **AI-driven automation tools**  (Copilot, Claude, ChatGPT, Cursor).
 - Preparing to start a **Master's in Cybersecurity at QUT in 2026**.
-- Continuously learning **new programming languages, frameworks, and cloud technologies**.
+- Always learning **new programming languages, frameworks, and technologies**.
 
 ## 🛠️ Tech Stack
 
@@ -16,43 +16,44 @@ I'm a software developer based in **Australia**. I design **robust, secure, and 
 [![Languages](https://skillicons.dev/icons?i=java,python,c,html,css,js&theme=dark)](https://skillicons.dev)
 
 **Frameworks & Libraries:**  
-[![Frameworks](https://skillicons.dev/icons?i=spring,flask,hibernate,junit&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring,flask,hibernate,postgres,maven,gradle&theme=dark)](https://skillicons.dev)
 
 **Tools & Platforms:**  
-[![Tools](https://skillicons.dev/icons?i=git,vscode,pycharm,idea,aws&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=bash,git,vscode,pycharm,idea,docker,aws&theme=dark)](https://skillicons.dev)
 
 **Cloud & OS:**  
 [![Cloud & OS](https://skillicons.dev/icons?i=apple,windows,linux&theme=dark)](https://skillicons.dev)
 
-## 🏆 Key Skills
+## 🧠 Key Skills
 - **Backend Development:** Java, Spring, Python, Flask, SQL  
 - **Frontend Development:** HTML, CSS, JavaScript, JavaFX  
-- **AI & Automation:** Chatbots, Copilot, Claude integration  
-- **Cloud & DevOps:** AWS, CI/CD, pipelines, automation  
+- **AI & Automation:** Chatbots, Automation 
+- **Cloud & DevOps:** AWS, CI/CD, Pipelines  
 - **Business Knowledge:** Finance, Accounting, Marketing  
-- **Project Management:** Team leadership, Problem-solving  
+- **Others:** Team leadership, Problem-solving
 
 ## 📂 Highlighted Projects
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| Web Applications | Java, Python, SQL | REST APIs and full-stack apps |
-| Desktop Applications | Java, JavaFX | Interactive desktop software |
-| Frontend Development | HTML, CSS, JS, Jekyll | Personal website showcasing projects and services |
+| Forecast / Stocks | Python, SQL, Flask | Full-stack apps |
+| CashCards | REST api | Java, Spring, SQL, Hibernate |
+| Asteroids | Java, JavaFX | Desktop game |
+| Frontend Development | HTML, CSS, JS, Jekyll | Personal Website |
 
 > For a full list of projects, check out my [Projects page](https://github.com/joherrer)
 
 ## 🌱 Learning & Goals
 - Expanding expertise in **Cybersecurity** (Master’s Degree starting 2026 at QUT)  
-- Exploring **cloud architecture**, **serverless apps**, and **AI-driven solutions**  
-- Staying updated with **new programming languages and frameworks**  
+- Growing proficiency in **Cloud Computing**
+- Diving into **Machine Learning** and **AI**
 
 ## 📫 Contact Me
 - 📍 Australia  
 - ✉️ [joherrer.dev@gmail.com](mailto:joherrer.dev@gmail.com) | [joherrer95@gmail.com](mailto:joherrer95@gmail.com)  
 
-## ⚡ Fun Facts
-- Passionate about **sports, travel, nature, and philosophy**  
-- Enjoys creating **innovative solutions** and exploring **new technologies**  
-- Believes in **building clean, secure, and reliable software**  
+## 👽 Fun Facts
+- Love **sports, travel, nature, and philosophy**  
+- Favorite music - **Soundtracks** and **New Age**
+- I train Kung Fu
 
 ![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=joherrer&show_icons=true&theme=radical)
