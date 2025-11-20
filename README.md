@@ -13,32 +13,16 @@ I'm a software developer based in **Australia**. I design **robust, secure, and 
 ## 🛠️ Tech Stack
 
 **Programming Languages:**  
-
 [![Languages](https://skillicons.dev/icons?i=java,python,c,html,css,js&theme=light)](https://skillicons.dev)
 
 **Frameworks & Libraries:**  
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) 
-![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=flat-square&logo=java&logoColor=white) 
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) 
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) 
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000000?style=flat-square&logo=sqlalchemy&logoColor=white) 
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white) 
-![Jinja](https://img.shields.io/badge/-Jinja-FB542B?style=flat-square&logo=jinja&logoColor=white)
+[![Frameworks](https://skillicons.dev/icons?i=spring,flask,hibernate,junit&theme=light)](https://skillicons.dev)
 
 **Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) 
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white) 
-![Copilot](https://img.shields.io/badge/-GitHub%20Copilot-239120?style=flat-square&logo=github&logoColor=white) 
-![Claude](https://img.shields.io/badge/-Claude-FF9900?style=flat-square) 
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square)
+[![Tools](https://skillicons.dev/icons?i=git,vscode,pycharm,idea,githubcopilot,github&theme=light)](https://skillicons.dev)
 
 **Cloud & OS:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) 
-![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=apple&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=git,vscode,pycharm,idea,githubcopilot,github&theme=light)](https://skillicons.dev)
 
 ## 🏆 Key Skills
 - **Backend Development:** Java, Spring, Python, Flask, SQL  
