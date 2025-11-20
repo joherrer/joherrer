@@ -49,7 +49,7 @@ I'm a software developer based in **Australia**. I build **robust, secure, and s
 
 ## 📫 Contact Me
 - 📍 Australia  
-- ✉️ [joherrer.dev@gmail.com](mailto:joherrer.dev@gmail.com) | [joherrer95@gmail.com](mailto:joherrer95@gmail.com)  
+- ✉️ [joherrer.dev@gmail.com](mailto:joherrer.dev@gmail.com) / [joherrer95@gmail.com](mailto:joherrer95@gmail.com)  
 
 ## 👽 Fun Facts
 - Love **sports, travel, nature, and philosophy**  
