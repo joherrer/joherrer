@@ -21,7 +21,7 @@ I'm a software developer based in **Australia**. I build **robust, secure, and s
 **Tools & Platforms:**  
 [![Tools](https://skillicons.dev/icons?i=bash,git,docker,aws,vscode,pycharm,idea&theme=dark)](https://skillicons.dev)
 
-**Cloud & OS:**  
+**OS:**  
 [![Cloud & OS](https://skillicons.dev/icons?i=apple,windows,linux&theme=dark)](https://skillicons.dev)
 
 ## 🧠 Key Skills
@@ -52,7 +52,7 @@ I'm a software developer based in **Australia**. I build **robust, secure, and s
 - ✉️ [joherrer.dev@gmail.com](mailto:joherrer.dev@gmail.com) / [joherrer95@gmail.com](mailto:joherrer95@gmail.com)  
 
 ## 👽 Fun Facts
-- Love **Sports, Travel, Nature, and Philosophy**  
+- Love **Sports, Nature, Travel, and Philosophy**  
 - Favorite music - **Soundtracks** and **New Age**
 - I train Shaolin Kung Fu
 
