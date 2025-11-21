@@ -19,7 +19,7 @@ I'm a software developer based in **Australia**. I build **robust, secure, and s
 [![Frameworks](https://skillicons.dev/icons?i=spring,flask,hibernate,postgres,maven,gradle&theme=dark)](https://skillicons.dev)
 
 **Tools & Platforms:**  
-[![Tools](https://skillicons.dev/icons?i=bash,git,vscode,pycharm,idea,docker,aws&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=bash,git,docker,aws,vscode,pycharm,idea&theme=dark)](https://skillicons.dev)
 
 **Cloud & OS:**  
 [![Cloud & OS](https://skillicons.dev/icons?i=apple,windows,linux&theme=dark)](https://skillicons.dev)
@@ -52,8 +52,8 @@ I'm a software developer based in **Australia**. I build **robust, secure, and s
 - ✉️ [joherrer.dev@gmail.com](mailto:joherrer.dev@gmail.com) / [joherrer95@gmail.com](mailto:joherrer95@gmail.com)  
 
 ## 👽 Fun Facts
-- Lovw **Sports, Travel, Nature, and Philosophy**  
+- Love **Sports, Travel, Nature, and Philosophy**  
 - Favorite music - **Soundtracks** and **New Age**
-- I train Kung Fu
+- I train Shaolin Kung Fu
 
 ![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=joherrer&show_icons=true&theme=radical)
