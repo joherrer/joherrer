@@ -54,4 +54,4 @@ I'm a software developer based in **Australia**. I build **robust, secure, and s
 ## 👽 Fun Facts
 - Love **Sports, Nature, Travel, and Philosophy** 🍃
 - Favorite music - **Soundtracks** and **New Age** 🌌
-- I train Shaolin Kung Fu 🥋
+- I train **Shaolin Kung Fu** 🥋
