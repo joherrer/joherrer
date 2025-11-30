@@ -40,7 +40,7 @@ I'm a software developer based in **Australia**. I build **robust, secure, and s
 | Asteroids | Java, JavaFX | Desktop game |
 | Frontend Development | HTML, CSS, JS, Jekyll | Personal Website |
 
-> For a full list of projects, check out my [Projects page](https://github.com/joherrer)
+> For a full list of projects, check out my [Projects page](https://joherrer.github.io/projects)
 
 ## 🌱 Learning & Goals
 - Expanding expertise in **Cybersecurity** (Master’s Degree starting 2026 at QUT)  
