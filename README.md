@@ -16,10 +16,13 @@ I'm a software developer based in **Australia**. I build **robust, secure, and s
 [![Languages](https://skillicons.dev/icons?i=java,python,c,html,css,js&theme=dark)](https://skillicons.dev)
 
 **Frameworks & Libraries:**  
-[![Frameworks](https://skillicons.dev/icons?i=spring,flask,hibernate,postgres,maven,gradle&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring,flask,nodejs,nextjs,react,tailwind&theme=dark)](https://skillicons.dev)
+
+**Databases:**  
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
 
 **Tools & Platforms:**  
-[![Tools](https://skillicons.dev/icons?i=bash,git,docker,aws,vscode,pycharm,idea&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=bash,git,docker,aws,vscode,idea&theme=dark)](https://skillicons.dev)
 
 **OS:**  
 [![Cloud & OS](https://skillicons.dev/icons?i=apple,windows,linux&theme=dark)](https://skillicons.dev)
