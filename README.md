@@ -19,7 +19,7 @@ I'm a software developer based in **Australia**. I build **robust, secure, and s
 [![Back-end Frameworks](https://skillicons.dev/icons?i=spring,flask,nodejs&theme=dark)](https://skillicons.dev)
 
 **Front-end Frameworks:**  
-[![Front-end Frameworks](https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,jekyll&theme=dark)](https://skillicons.dev)
+[![Front-end Frameworks](https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
 
 **Databases:**  
 [![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
