@@ -16,7 +16,7 @@ I'm a software developer based in **Australia**. I build **robust, secure, and s
 [![Languages](https://skillicons.dev/icons?i=java,python,c,html,css,js&theme=dark)](https://skillicons.dev)
 
 **Back-end Frameworks:**  
-[![Back-end Frameworks](https://skillicons.dev/icons?i=spring,flask,nodejs,nextjs,react,tailwind&theme=dark)](https://skillicons.dev)
+[![Back-end Frameworks](https://skillicons.dev/icons?i=spring,flask,nodejs&theme=dark)](https://skillicons.dev)
 
 **Front-end Frameworks:**  
 [![Front-end Frameworks](https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,jekyll&theme=dark)](https://skillicons.dev)
