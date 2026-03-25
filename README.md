@@ -1,12 +1,12 @@
 # Hi, I'm Jose 👋
 
-### 💻 Software Developer | Full-Stack | Cloud Computing
+### 💻 Software Developer | Cloud Computing | Artificial Inteligence
 
-I'm a software developer based in **Australia**. I build **robust, secure, and scalable solutions** using **AI tools, cloud computing, and cybersecurity practices**. Driven by innovation and the fun of discovering new ways to bring ideas to life through code.
+I'm a full-stack software developer based in **Australia**. I build **robust, secure, and scalable solutions** using **AI tools, cloud computing, and cybersecurity practices**. Driven by innovation and the fun of discovering new ways to bring ideas to life through code.
 
 ## ⚡ What I'm Doing
 - Developing **web applications, APIs, and desktop applications** using Java and Python.
-- Mastering **AI-driven tools**  (Copilot, Claude, ChatGPT, Cursor).
+- Mastering **AI-driven tools**  (Copilot, Claude, Codex, Cursor).
 - Preparing to start a **Master's in Cybersecurity at QUT in 2026**.
 - Always learning **new software and technologies**.
 
@@ -30,8 +30,8 @@ I'm a software developer based in **Australia**. I build **robust, secure, and s
 ## 🧠 Key Skills
 - **Backend Development:** Java, Spring, Python, Flask, SQL  
 - **Frontend Development:** HTML, CSS, JavaScript, JavaFX  
-- **AI & Automation:** Copilot, Claude, ChatGPT, Cursor
-- **Cloud & DevOps:** AWS, CI/CD, Pipelines  
+- **AI & Automation:** Copilot, Claude, Codex, Cursor
+- **Cloud & DevOps:** AWS, Docker, CI/CD Pipelines  
 - **Business Knowledge:** Finance, Accounting, Marketing  
 - **Others:** Team leadership, Problem-solving
 
@@ -57,4 +57,4 @@ I'm a software developer based in **Australia**. I build **robust, secure, and s
 ## 👽 Fun Facts
 - Love **Sports, Nature, and Philosophy** 🍃
 - Favorite music - **Soundtracks** and **New Age** 🌌
-- I train **Shaolin Kung Fu** 🥋
+- I train **Kung Fu** 🥋
