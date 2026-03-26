@@ -2,7 +2,7 @@
 
 ### 💻 Software Developer | Cloud Computing | Artificial Inteligence
 
-I'm a full-stack software developer based in **Australia**. I build **robust, secure, and scalable solutions** using **AI tools, cloud computing, and cybersecurity practices**. Driven by innovation and the fun of discovering new ways to bring ideas to life through code.
+I'm a full-stack software developer based in **Australia**. I build **robust, secure, and scalable solutions** using **AI tools, cloud computing, and cybersecurity practices**. Driven by innovation and a passion for discovering new ways to bring ideas to life through code.
 
 ## ⚡ What I'm Doing
 - Developing **web applications, APIs, and desktop applications** using Java and Python.
